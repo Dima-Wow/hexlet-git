@@ -1,0 +1,15 @@
+{
+    "name": "unych/hexlet",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Unych\\Hexlet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "unych"
+        }
+    ],
+    "require": {}
+}
